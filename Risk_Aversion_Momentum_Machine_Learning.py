@@ -8,7 +8,7 @@ from sklearn import preprocessing
 from collections import deque, Counter
 import numpy as np
 
-def initialize(context):
+
     """
     Called once at the start of the algorithm. 
     """   
